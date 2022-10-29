@@ -11,19 +11,23 @@
     <div class="container">
 
         <header class="top-header">
-            <nav class="top-menu">
-                <a href="profile.php">Company Profile</a>
-                <a href="vision-mission.php">Vision & Mission</a>
-                <a href="#">Product & Service</a>
-                <a href="client.php">Our Client</a>
-                <a href="contact.php">Contact</a>
-            </nav>
+            
             <div class="logo-section">
                 <div class="logo">
-                    <a href="index.php"><img src="logo.jpg" alt="logo" /></a>
+                    <a href="index.php"><img src="logo.png" alt="logo" /></a>
                 </div>
                 <div class="banner">
-                    <!-- <a href="#"><img src="" alt="banner" /></a> -->
+                    <nav class="top-menu">
+                        <a href="profile.php">Company Profile</a>
+                        <a href="vision-mission.php">Vision & Mission</a>
+                        <a href="#">Product & Service</a>
+                        <a href="client.php">Our Client</a>
+                        <a href="contact.php">Contact</a>
+                    </nav>
+                    <div class="top-menu-bottom">
+                        <div class="email"><b>Email:</b> info@secureaceint.com</div>
+                        <div class="phone"><b>Tel:</b> 88 02 7121118 <b>Mobile:</b> 88 01772779957</div>
+                    </div>
                 </div>
             </div>
         </header>

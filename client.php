@@ -2,7 +2,7 @@
 
     <h3>Our Clients</h3>
 
-    <ul class="child-ol">
+    <ul class="child-ol-client">
         <li>ULAB (University)</li>
         <li>Open University</li>
         <li>Investment Corporation of Bangladesh (ICB)</li>

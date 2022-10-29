@@ -6,7 +6,7 @@
 
     <ul>
         <li>Security cheque printing & supply (Personal Cheque & Business Cheque)
-            <ol class="child-ol">
+            <ul class="child-ol">
                 <li>Savings Cheque</li>
                 <li>Current Cheque</li>
                 <li>Payment Order</li>
@@ -15,7 +15,7 @@
                 <li>Cashier Order</li>
                 <li>A4 size cheque</li>
                 <li>Dividend Warrant</li>
-            </ol>
+            </ul>
         </li>
         <li>Security certificate printing & supply.</li>
         <li>Security pin & tin mailer and other security stationery supply</li>
